@@ -10,6 +10,7 @@ public class DemoApplication {
 
         SpringApplication.run(DemoApplication.class, args);
         System.out.println("hot-fix第一次提交");
+        System.out.println("被拉取");
     }
 
 }
